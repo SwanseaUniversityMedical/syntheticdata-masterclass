@@ -11,4 +11,4 @@ Open WorkshopNotebookComplete :
 
 ---
 
-Alternative enviroment [![TRE Light](https://masterclass.dpuk.serp.ac.uk/hello)] : https://masterclass.dpuk.serp.ac.uk/hello
+Alternative enviroment : https://masterclass.dpuk.serp.ac.uk/hello
